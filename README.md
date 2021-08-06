@@ -6,7 +6,7 @@ Code is available as a Jupyter Notebook (`SAOchanges_notebook.ipynb`) and as a R
 
 | Jupyter interface                                                                                      | RStudio interface                                                                                      |
 |--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andresawa/south-atlantic-change/main?filepath=SAOchanges_notebook.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andresawa/south-atlantic-change/main??urlpath=rstudio) |
+| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andresawa/south-atlantic-change/main?filepath=SAOchanges_notebook.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andresawa/south-atlantic-change/main?urlpath=rstudio) |
 
 Instructions for the execution can be found at the top of each file.
 ?urlpath=rstudio
