@@ -1,7 +1,0 @@
-install.packages("tidyverse")
-install.packages("mass")
-install.packages("oce")
-install.packages("seacarb")
-install.packages("signal")
-install.packages("ggpubr")
-install.packages("sfsmisc")
